@@ -1,0 +1,16 @@
+cps2002/game/Position.class
+cps2002/game/Player.class
+cps2002/task1/Calculator.class
+cps2002/game/Game.class
+cps2002/game/HazardousMapCreator.class
+cps2002/game/Map.class
+cps2002/game/MapCreator.class
+cps2002/game/SafeMapCreator.class
+cps2002/game/MapType.class
+cps2002/task1/Message.class
+cps2002/game/MapCreator$1.class
+cps2002/game/SafeMap.class
+cps2002/game/Subject.class
+cps2002/game/PlayerObserver.class
+cps2002/game/Observer.class
+cps2002/game/HazardousMap.class
