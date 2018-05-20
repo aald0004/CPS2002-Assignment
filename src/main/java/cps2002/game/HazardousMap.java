@@ -399,32 +399,6 @@ public class HazardousMap implements Map{
 
     }
 
-    // generate the initial player map - all grey tiles
-    public void generatePlayerMap(){
-
-        map = new char[size][size];
-
-        // generate a map filled of grey tiles
-        for(int i = 0; i < size; i++){
-            for(int j = 0; j < size; j++){
-
-                map[i][j] = 'g';
-
-            }
-        }
-
-    }
-
-
-    /* set the map tile to a different tile (update the player map to reflect discovered tiles)
-     * Parameters: x-> x coordinate of tile
-     *             y-> y coordinate of tile
-     *             colour-> the new colour of the tile*/
-    public void revealColour(int x, int y, char colour){
-
-        map[y][x] = colour;
-    }
-
 
     /* set the number of players
     * Parameters: numPlayers-> the number of players*/

@@ -27,14 +27,10 @@ public class Player {
 
         // create map
         size = mpSize;
-        /*MapCreator creator = new MapCreator();
 
-        tm = creator.create(type, numPlayers);
-        tm.mapSizeSetter(mpSize);*/
         generatePlayerMap();
 
-        // generate the player map
-        //tm.generatePlayerMap();
+
     }
 
     /* set the player's Position

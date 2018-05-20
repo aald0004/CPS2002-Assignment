@@ -17,7 +17,7 @@ public class SafeMapTest {
     @Before
     public void setup(){
         MapCreator creator = new MapCreator();
-        tm = creator.create("Safe", 3);
+        tm = creator.create("SAFE", 3);
     }
 
 
@@ -232,44 +232,6 @@ public class SafeMapTest {
         boolean expected = false;
         assertEquals(expected, ans);
     }
-
-    // test that the generatePlayerMap function's map is full of grey tiles
-    @Test
-    public void testGeneratePlayerMap(){
-        tm.mapSizeSetter(2);
-        tm.generatePlayerMap();
-        char[][] m = new char[2][2];
-        m[0][0] = 'g';
-        m[0][1] = 'g';
-        m[1][0] = 'g';
-        m[1][1] = 'g';
-        assertArrayEquals(m, tm.getMap());
-
-    }
-
-    // test that revelColour works
-    @Test
-    public void testRevealColour(){
-        // set map size
-        tm.mapSizeSetter(2);
-
-        // generate player map
-        tm.generatePlayerMap();
-
-        // set the tile to water tile at position x = 0,y = 0
-        tm.revealColour(0,0,'w');
-
-        char[][] map = new char[2][2];
-
-        map[0][0] = 'w';
-        map[0][1] = 'g';
-        map[1][1] = 'g';
-        map[1][0] = 'g';
-
-        assertArrayEquals(map, tm.getMap());
-
-    }
-
 
     // test getx
     @Test

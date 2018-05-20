@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55b902c6-5835-408b-937a-db486ed45dd3" name="Default" comment="" />
+    <list default="true" id="55b902c6-5835-408b-937a-db486ed45dd3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLFiles/map_player_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLFiles/map_player_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLFiles/map_player_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLFiles/map_player_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLFiles/map_player_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLFiles/map_player_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cps2002/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cps2002/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMapCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMapCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cps2002/game/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cps2002/game/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cps2002/game/MapCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cps2002/game/MapCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cps2002/game/MapType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cps2002/game/MapType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cps2002/game/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cps2002/game/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cps2002/game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cps2002/game/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cps2002/game/SafeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cps2002/game/SafeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cps2002/game/SafeMapCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cps2002/game/SafeMapCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cps2002/game/GameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cps2002/game/GameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cps2002/game/HazardousMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cps2002/game/HazardousMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cps2002/game/SafeMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cps2002/game/SafeMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/assignment-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/assignment-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cps2002/game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cps2002/game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cps2002/game/HazardousMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cps2002/game/HazardousMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cps2002/game/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cps2002/game/Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cps2002/game/MapCreator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cps2002/game/MapCreator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cps2002/game/MapCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cps2002/game/MapCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cps2002/game/MapType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cps2002/game/MapType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cps2002/game/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cps2002/game/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cps2002/game/SafeMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cps2002/game/SafeMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coverage-0.ec" beforeDir="false" afterPath="$PROJECT_DIR$/target/coverage-0.ec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coverage.em" beforeDir="false" afterPath="$PROJECT_DIR$/target/coverage.em" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/HazardousMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/HazardousMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/MapCreator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/MapCreator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/MapCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/MapCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/MapType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/MapType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/SafeMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-classes/emma/classes/cps2002/game/SafeMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.GameTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.GameTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.HazardousMapCreatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.HazardousMapCreatorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.HazardousMapTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.HazardousMapTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.MapCreatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.MapCreatorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.PlayerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.PlayerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.SafeMapTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.SafeMapTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.SubjectTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-cps2002.game.SubjectTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.GameTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.GameTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.HazardousMapCreatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.HazardousMapCreatorTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.HazardousMapTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.HazardousMapTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.MapCreatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.MapCreatorTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.PlayerObserverTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.PlayerObserverTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.PlayerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.PlayerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.PositionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.PositionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.SafeMapTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.SafeMapTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.SubjectTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/cps2002.game.SubjectTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/cps2002.task1.CalculatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/cps2002.task1.CalculatorTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/cps2002.task1.MessageTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/cps2002.task1.MessageTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cps2002/game/GameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cps2002/game/GameTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cps2002/game/HazardousMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cps2002/game/HazardousMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cps2002/game/SafeMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cps2002/game/SafeMapTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,7 +127,7 @@
       <FILTER>cps2002.game.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/CPS2002assignment$GameTest_and_5_more.ic" NAME="GameTest and 5 more Coverage Results" MODIFIED="1525253116254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/CPS2002_Assignment_develop$cps2002_game_in_CPS2002assignment.ic" NAME="cps2002.game in CPS2002assignment Coverage Results" MODIFIED="1526479481782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/CPS2002_Assignment_develop$cps2002_game_in_CPS2002assignment.ic" NAME="cps2002.game in CPS2002assignment Coverage Results" MODIFIED="1526800835762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cps2002.game.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/CPS2002assignment$MessageTest__1_.coverage" NAME="MessageTest (1) Coverage Results" MODIFIED="1521315539331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -90,13 +149,61 @@
       <FILTER>cps2002.game.*</FILTER>
     </SUITE>
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Game.java">
+      <file leaf-file-name="SafeMapCreator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/SafeMapCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-394">
-              <caret line="274" selection-start-line="274" selection-end-line="274" />
+            <state relative-caret-position="108">
+              <caret line="6" column="38" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SafeMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/SafeMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6678">
+              <caret line="400" selection-start-line="400" selection-end-line="400" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Observer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Observer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Position.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Position.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/GameTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="799" column="21" lean-forward="true" selection-start-line="799" selection-start-column="21" selection-end-line="799" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,11 +211,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapCreatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/MapCreatorTest.java">
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="37" selection-start-line="37" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="363">
+              <caret line="90" column="16" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -116,8 +223,8 @@
       <file leaf-file-name="MapCreator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/MapCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+            <state relative-caret-position="57">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -126,64 +233,16 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/MapType.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SafeMapTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/SafeMapTest.java">
+      <file leaf-file-name="HazardousMapCreator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMapCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6660">
-              <caret line="380" column="8" selection-start-line="380" selection-start-column="8" selection-end-line="380" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PositionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/PositionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/GameTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="600" column="34" selection-start-line="600" selection-start-column="34" selection-end-line="600" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HazardousMap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8316">
-              <caret line="470" column="1" selection-start-line="470" selection-start-column="1" selection-end-line="470" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HazardousMapCreatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/HazardousMapCreatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1602">
-              <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+            <state relative-caret-position="54">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -227,8 +286,10 @@
       <find>Hazardous</find>
       <find>mapType</find>
       <find>type</find>
-      <find>Safe</find>
       <find>mapTye</find>
+      <find>Safe</find>
+      <find>and right</find>
+      <find>tm</find>
     </findStrings>
     <replaceStrings>
       <replace>Map</replace>
@@ -237,7 +298,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -261,27 +322,27 @@
         <option value="$PROJECT_DIR$/src/main/java/cps2002/game/OldMap.java" />
         <option value="$PROJECT_DIR$/src/test/java/cps2002/game/PlayerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/cps2002/game/MapTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cps2002/game/HazardousMapTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/Player.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/Observer.java" />
         <option value="$PROJECT_DIR$/src/main/java/cps2002/game/Subject.java" />
         <option value="$PROJECT_DIR$/src/main/java/cps2002/game/PlayerObserver.java" />
         <option value="$PROJECT_DIR$/src/test/java/cps2002/game/SubjectTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/cps2002/game/PlayerObserverTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/SafeMapCreator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMapCreator.java" />
         <option value="$PROJECT_DIR$/src/test/java/cps2002/game/SafeMapCreatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/cps2002/game/HazardousMapCreator.java" />
         <option value="$PROJECT_DIR$/src/test/java/cps2002/game/HazardousMapCreatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cps2002/game/SafeMapTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/SafeMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/Map.java" />
         <option value="$PROJECT_DIR$/src/test/java/cps2002/game/MapCreatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cps2002/game/MapType.java" />
         <option value="$PROJECT_DIR$/src/main/java/cps2002/game/MapCreator.java" />
         <option value="$PROJECT_DIR$/src/main/java/cps2002/game/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/SafeMap.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cps2002/game/HazardousMapTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cps2002/game/SafeMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/Player.java" />
         <option value="$PROJECT_DIR$/src/test/java/cps2002/game/GameTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/Map.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/Observer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/SafeMapCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMapCreator.java" />
       </list>
     </option>
   </component>
@@ -313,12 +374,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="CPS2002-Assignment-develop" type="b2602c69:ProjectViewProjectNode" />
               <item name="CPS2002-Assignment-develop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CPS2002-Assignment-develop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CPS2002-Assignment-develop" type="462c0819:PsiDirectoryNode" />
+              <item name="emma" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CPS2002-Assignment-develop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CPS2002-Assignment-develop" type="462c0819:PsiDirectoryNode" />
+              <item name="HTMLFiles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CPS2002-Assignment-develop" type="b2602c69:ProjectViewProjectNode" />
@@ -407,23 +480,21 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CPS2002assignment" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/HTMLFiles" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/HTMLFiles" />
     </key>
@@ -445,6 +516,17 @@
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
+    </configuration>
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cps2002.game.Game" />
+      <module name="CPS2002assignment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cps2002.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -489,7 +571,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="GameTest.testChoosePlayersWithException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GameTest.testInvalidMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CPS2002assignment" />
       <extension name="coverage">
         <pattern>
@@ -501,7 +583,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="cps2002.game" />
       <option name="MAIN_CLASS_NAME" value="cps2002.game.GameTest" />
-      <option name="METHOD_NAME" value="testChoosePlayersWithException" />
+      <option name="METHOD_NAME" value="testInvalidMove" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -512,7 +594,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="GameTest.testSetMapSizeWithException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GameTest.testStartGameInTeamMode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CPS2002assignment" />
       <extension name="coverage">
         <pattern>
@@ -524,30 +606,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="cps2002.game" />
       <option name="MAIN_CLASS_NAME" value="cps2002.game.GameTest" />
-      <option name="METHOD_NAME" value="testSetMapSizeWithException" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="GameTest.testSetTeamModeWithException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CPS2002assignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cps2002.game.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cps2002.game" />
-      <option name="MAIN_CLASS_NAME" value="cps2002.game.GameTest" />
-      <option name="METHOD_NAME" value="testSetTeamModeWithException" />
+      <option name="METHOD_NAME" value="testStartGameInTeamMode" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -635,18 +694,18 @@
     <list>
       <item itemvalue="JUnit.All in CPS2002assignment" />
       <item itemvalue="JUnit.cps2002.game in CPS2002assignment" />
-      <item itemvalue="JUnit.GameTest.testSetTeamModeWithException" />
-      <item itemvalue="JUnit.GameTest.testChoosePlayersWithException" />
-      <item itemvalue="JUnit.GameTest.testSetMapSizeWithException" />
       <item itemvalue="JUnit.GameTest" />
+      <item itemvalue="Application.Game" />
+      <item itemvalue="JUnit.GameTest.testStartGameInTeamMode" />
+      <item itemvalue="JUnit.GameTest.testInvalidMove" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.cps2002.game in CPS2002assignment" />
+        <item itemvalue="JUnit.GameTest.testInvalidMove" />
+        <item itemvalue="Application.Game" />
+        <item itemvalue="JUnit.GameTest.testStartGameInTeamMode" />
         <item itemvalue="JUnit.GameTest" />
-        <item itemvalue="JUnit.GameTest.testSetMapSizeWithException" />
-        <item itemvalue="JUnit.GameTest.testChoosePlayersWithException" />
-        <item itemvalue="JUnit.GameTest.testSetTeamModeWithException" />
       </list>
     </recent_temporary>
   </component>
@@ -686,44 +745,52 @@
       <workItem from="1525957960397" duration="1405000" />
       <workItem from="1526474903357" duration="1750000" />
       <workItem from="1526477174373" duration="1750000" />
-      <workItem from="1526478957484" duration="1497000" />
+      <workItem from="1526478957484" duration="2016000" />
+      <workItem from="1526540517530" duration="1076000" />
+      <workItem from="1526546308489" duration="1423000" />
+      <workItem from="1526639443221" duration="1608000" />
+      <workItem from="1526651842707" duration="1466000" />
+      <workItem from="1526653719683" duration="1993000" />
+      <workItem from="1526656068844" duration="133000" />
+      <workItem from="1526657885154" duration="3019000" />
+      <workItem from="1526800823533" duration="744000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GameTest_testChoosePlayersWithException - 2018.05.16 at 16h 02m 27s.xml">
-      <configuration name="GameTest.testChoosePlayersWithException" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GameTest_testSetMapSizeWithException - 2018.05.16 at 16h 04m 37s.xml">
-      <configuration name="GameTest.testSetMapSizeWithException" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="cps2002_game_in_CPS2002assignment - 2018.05.16 at 16h 04m 42s.xml">
+    <history-entry file="cps2002_game_in_CPS2002assignment - 2018.05.17 at 09h 08m 12s.xml">
       <configuration name="cps2002.game in CPS2002assignment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameTest - 2018.05.16 at 16h 05m 03s.xml">
-      <configuration name="GameTest" configurationId="JUnit" />
+    <history-entry file="cps2002_game_in_CPS2002assignment - 2018.05.17 at 09h 08m 36s.xml">
+      <configuration name="cps2002.game in CPS2002assignment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameTest_testSetMapSizeWithException - 2018.05.16 at 16h 05m 49s.xml">
-      <configuration name="GameTest.testSetMapSizeWithException" configurationId="JUnit" />
+    <history-entry file="GameTest_testStartGameInTeamMode - 2018.05.17 at 09h 09m 20s.xml">
+      <configuration name="GameTest.testStartGameInTeamMode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameTest_testSetMapSizeWithException - 2018.05.16 at 16h 06m 11s.xml">
-      <configuration name="GameTest.testSetMapSizeWithException" configurationId="JUnit" />
+    <history-entry file="cps2002_game_in_CPS2002assignment - 2018.05.17 at 09h 09m 25s.xml">
+      <configuration name="cps2002.game in CPS2002assignment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameTest - 2018.05.16 at 16h 06m 15s.xml">
-      <configuration name="GameTest" configurationId="JUnit" />
+    <history-entry file="cps2002_game_in_CPS2002assignment - 2018.05.17 at 09h 09m 59s.xml">
+      <configuration name="cps2002.game in CPS2002assignment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameTest - 2018.05.16 at 16h 07m 08s.xml">
-      <configuration name="GameTest" configurationId="JUnit" />
+    <history-entry file="cps2002_game_in_CPS2002assignment - 2018.05.18 at 16h 01m 20s.xml">
+      <configuration name="cps2002.game in CPS2002assignment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameTest_testSetMapSizeWithException - 2018.05.16 at 16h 07m 18s.xml">
-      <configuration name="GameTest.testSetMapSizeWithException" configurationId="JUnit" />
+    <history-entry file="cps2002_game_in_CPS2002assignment - 2018.05.18 at 16h 01m 49s.xml">
+      <configuration name="cps2002.game in CPS2002assignment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameTest - 2018.05.16 at 16h 07m 25s.xml">
-      <configuration name="GameTest" configurationId="JUnit" />
+    <history-entry file="GameTest_testInvalidMove - 2018.05.18 at 16h 08m 00s.xml">
+      <configuration name="GameTest.testInvalidMove" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cps2002_game_in_CPS2002assignment - 2018.05.18 at 16h 08m 06s.xml">
+      <configuration name="cps2002.game in CPS2002assignment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cps2002_game_in_CPS2002assignment - 2018.05.20 at 09h 20m 37s.xml">
+      <configuration name="cps2002.game in CPS2002assignment" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152779000" />
+    <option name="totallyTimeSpent" value="164760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -748,12 +815,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35963777" />
-      <window_info anchor="right" id="Coverage" order="3" side_tool="true" visible="true" weight="0.15650865" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34064516" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24967659" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" visible="true" weight="0.0331076" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15870968" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26109856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29721594" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -770,19 +837,18 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info id="Designer" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32893157" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24959569" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="Structure" order="6" weight="0.25" />
       <window_info anchor="right" id="Commander" order="6" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="0" />
+      <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="right" id="Maven Projects" order="1" />
@@ -792,10 +858,11 @@
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info id="Capture Tool" order="0" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32893157" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.32884097" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24959569" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -810,18 +877,35 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/GameTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13194">
-          <caret line="743" column="5" selection-start-line="743" selection-start-column="5" selection-end-line="743" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1440">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/launcher.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/mapDimensionsError.java" />
+    <entry file="file://$PROJECT_DIR$/HTMLFiles/map_player_5.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/MapCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/MapType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8316">
+          <caret line="470" column="1" selection-start-line="470" selection-start-column="1" selection-end-line="470" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/numOfPlayersError.java" />
     <entry file="file://$PROJECT_DIR$/emma/coverage.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -870,87 +954,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Position.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTMLFiles/map_player_7.html" />
-    <entry file="file://$PROJECT_DIR$/HTMLFiles/map_player_4.html" />
-    <entry file="file://$PROJECT_DIR$/HTMLFiles/map_player_8.html" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1476">
-          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/PlayerObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTMLFiles/map_player_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTMLFiles/map_player_2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMapCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/HazardousMapCreator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/SafeMapCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1638">
-          <caret line="91" column="43" selection-start-line="91" selection-start-column="43" selection-end-line="91" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/SafeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7110">
-          <caret line="397" selection-start-line="397" selection-end-line="397" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/HazardousMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/PlayerObserverTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -986,45 +990,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8316">
-          <caret line="470" column="1" selection-start-line="470" selection-start-column="1" selection-end-line="470" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1602">
-          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/Enum.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/MapType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/MapCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/SafeMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6660">
-          <caret line="380" column="8" selection-start-line="380" selection-start-column="8" selection-end-line="380" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1042,10 +1011,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLFiles/map_player_5.html" />
+    <entry file="file://$PROJECT_DIR$/HTMLFiles/map_player_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLFiles/map_player_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/HazardousMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/SafeMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="233" column="5" selection-start-line="233" selection-start-column="5" selection-end-line="233" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="400" selection-start-line="400" selection-end-line="400" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1476">
+          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/PlayerObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-394">
-          <caret line="274" selection-start-line="274" selection-end-line="274" />
+        <state relative-caret-position="1692">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1054,11 +1073,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cps2002/game/GameTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="600" column="34" selection-start-line="600" selection-start-column="34" selection-end-line="600" selection-end-column="34" />
+        <state relative-caret-position="223">
+          <caret line="799" column="21" lean-forward="true" selection-start-line="799" selection-start-column="21" selection-end-line="799" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="90" column="16" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/MapCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/MapType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/SafeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6678">
+          <caret line="400" selection-start-line="400" selection-end-line="400" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/SafeMapCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cps2002/game/HazardousMapCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>

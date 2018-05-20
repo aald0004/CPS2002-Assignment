@@ -8,27 +8,17 @@ public class MapCreator {
     * Returns:    Map-> returns the required map*/
     public Map create(String type, int numPlayers){
 
-        MapType mapType = MapType.valueOf(type);
+        MapType mapType = MapType.valueOf(type.toUpperCase());
 
         Map map = null;
 
-        /*switch(mapType){
-            case Safe:
-                map = SafeMap.getInstance(numPlayers);
-                break;
-            case Hazardous:
-                map =  HazardousMap.getInstance(numPlayers);
-                break;
-            default:
-                throw new IllegalArgumentException("unsupported map type");
-        }*/
 
         switch(mapType){
-            case Safe:
+            case SAFE:
                 SafeMapCreator safeMapCreator = new SafeMapCreator();
                 map = safeMapCreator.creator(numPlayers);
                 break;
-            case Hazardous:
+            case HAZARDOUS:
                 HazardousMapCreator hazardousMapCreator = new HazardousMapCreator();
                 map = hazardousMapCreator.creator(numPlayers);
                 break;
@@ -38,12 +28,5 @@ public class MapCreator {
 
         return map;
 
-        /*if(type.equals("Safe")){
-            return SafeMap.getInstance(numPlayers);
-        } else if(type.equals("Hazardous")){
-            return HazardousMap.getInstance(numPlayers);
-        } else {
-            return null;
-        }*/
     }
 }

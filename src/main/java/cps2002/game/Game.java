@@ -142,7 +142,7 @@ public class Game {
     public String welcomeMessage(){
 
         String message = "The goal of the game is to find the treasure before your opponents do.\n" +
-                "You will need to enter a move: u for up, d for down, l for left and r for right.\n" +
+                "You will need to enter a move: u for up, d for down, l for left or r for right.\n" +
                 "Your map can be found in the directory: HTMLFiles\n";
 
         return message;
@@ -235,7 +235,8 @@ public class Game {
             type = scanner.nextLine();
         }
 
-        mapType = type;
+
+        mapType = type.toUpperCase();
     }
 
 
@@ -509,7 +510,7 @@ public class Game {
 
             if(teamMode == true){
                 int teamNum = rand.nextInt(numOfTeams);
-                System.out.println(teamNum);
+                System.out.println("Player "+ (i+1) + " is in team "+teamNum);
                 p.setTeamID(teamNum);
             }
 
@@ -664,17 +665,18 @@ public class Game {
         // set treasure found to true and add player index to array list of winningIndexes
         if(tileType == 't'){
             winningIndexes.add(index);
-            /*if(teamMode == true) {
+
+
+            if(teamMode == true) {
+                subject.setTeamID(players.get(index).getTeamID());
+                subject.setState(x, y, tileType);
+
                 for (int i = 0; i < numOfPlayers; i++) {
                     if (i != index && players.get(i).getTeamID() == players.get(index).getTeamID()) {
                         winningIndexes.add(i);
                     }
                 }
-            }*/
 
-            if(teamMode == true) {
-                subject.setTeamID(players.get(index).getTeamID());
-                subject.setState(x, y, tileType);
             }
             treasureFound = true;
         }

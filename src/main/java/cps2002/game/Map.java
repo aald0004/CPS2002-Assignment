@@ -4,6 +4,7 @@ package cps2002.game;
 
 public interface Map {
 
+
     /* set the number of players
      * Parameters: numPlayers-> the number of players*/
     public void setNumPlayers(int numPlayers);
@@ -67,9 +68,6 @@ public interface Map {
     public char getTileType(int x, int y);
 
 
-    public void generatePlayerMap();
-    public void revealColour(int x, int y, char colour);
-
     /* determines if the map size obeys the constraints
      * Parameters: s-> map size
      * Returns: boolean-> returns true if the size obeys the constraints*/
@@ -91,7 +89,5 @@ public interface Map {
      *             y-> y index
      *             value-> value to be set */
     public void setValueInWaterNeighbour(int x, int y, int value);
-
-
 
 }

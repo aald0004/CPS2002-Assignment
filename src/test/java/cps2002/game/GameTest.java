@@ -391,6 +391,21 @@ public class GameTest {
     }
 
 
+    // Test invalid move command
+    @Test
+    public void testInvalidMove(){
+        // set up required variables and check the player's new y coordinate
+        g.numOfPlayers = 4;
+        g.tm = tm;
+        g.tm.mapSizeSetter(7);
+        g.tm.setGameMap(g.tm.setMap());
+        g.addPlayers();
+        g.players.get(2).setPosition(new Position(6,6));
+        g.executeMove("n",g.players.get(2),3);
+        assertEquals(6,g.players.get(2).position.getx());
+    }
+
+
     // Test htmlString
     @Test
     public void testHTMLString(){
@@ -654,7 +669,7 @@ public class GameTest {
         String message = g.welcomeMessage();
 
         String expectedMessage = "The goal of the game is to find the treasure before your opponents do.\n" +
-                "You will need to enter a move: u for up, d for down, l for left and r for right.\n" +
+                "You will need to enter a move: u for up, d for down, l for left or r for right.\n" +
                 "Your map can be found in the directory: HTMLFiles\n";
 
         assertEquals(expectedMessage,message);
@@ -666,7 +681,7 @@ public class GameTest {
         String mapType = "-10\nSafe";
         g.chooseMapType(new Scanner(mapType));
 
-        assertEquals("Safe", g.mapType);
+        assertEquals("SAFE", g.mapType);
     }
 
     // test start game in non team mode
@@ -704,7 +719,7 @@ public class GameTest {
                 "d\nd\nd\nd\nd\nd\nd";
 
         g2.startGame(new Scanner(inputs));
-        assertEquals(true, g2.treasureFound);
+        assertEquals(true, g2.teamMode);
 
     }
 
