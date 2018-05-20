@@ -59,8 +59,8 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testGeneratePlayerMap" classname="cps2002.game.PlayerTest" time="0.042"/>
+  <testcase name="testGeneratePlayerMap" classname="cps2002.game.PlayerTest" time="0.043"/>
   <testcase name="testRevealColour" classname="cps2002.game.PlayerTest" time="0"/>
   <testcase name="testGetTileType" classname="cps2002.game.PlayerTest" time="0"/>
-  <testcase name="testSetPosition" classname="cps2002.game.PlayerTest" time="0.001"/>
+  <testcase name="testSetPosition" classname="cps2002.game.PlayerTest" time="0"/>
 </testsuite>
