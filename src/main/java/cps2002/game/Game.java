@@ -102,7 +102,6 @@ public class Game {
 
         tm.generateMap();
 
-
         if(numOfPlayers > 2) {
             setTeamMode(sc);
         }
